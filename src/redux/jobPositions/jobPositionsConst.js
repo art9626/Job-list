@@ -1,0 +1,1 @@
+export const ADD_POSITIONS = 'jl/jobPositions/ADD_POSITIONS';
